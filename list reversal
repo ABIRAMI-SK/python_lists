@@ -1,0 +1,5 @@
+a=[2,9,0,8,7,4,5,3,9,0]
+# print(a[0::3])
+print(len(a))
+a[-1],a[-2],a[-3],a[-4],a[-5],a[-6],a[-7],a[-8],a[-9],a[-10]= 'l','o','v','e','y','o','u','d','i','!' #list is mutable
+print(a[::-1])#reverses the given list
